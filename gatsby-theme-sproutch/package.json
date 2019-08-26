@@ -1,0 +1,10 @@
+{
+  "name": "gatsby-theme-sproutch",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Daniel Neveux <daniel.neveux@gmail.com> (@dagatsoin)",
+  "license": "MIT",
+  "peerDependencies": {
+    "gatsby": "^2.6.0"
+  }
+}
